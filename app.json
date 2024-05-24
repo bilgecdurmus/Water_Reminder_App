@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.durmus718.WaterReminderApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
