@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "Water-Reminder-App",
-    "slug": "Water-Reminder-App",
+    "name": "Aquabloom",
+    "slug": "Aquabloom",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/WaterReminderApp.jpeg",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -21,7 +21,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/WaterReminderApp.jpeg",
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.durmus718.WaterReminderApp"
